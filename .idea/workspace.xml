@@ -10,12 +10,9 @@
       <change afterPath="$PROJECT_DIR$/../../DZ11/Functional-task/src/app/entitis/ContactEntiti.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DZ11/Functional-task/src/app/model/DataProvider.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DZ11/Functional-task/src/app/view/AppView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/controllers/AppController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/entitis/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/model/DataHendler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/model/DataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/view/AppView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DZ2/ShopOnline" beforeDir="false" afterPath="$PROJECT_DIR$/../../DZ2/ShopOnline" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DZ5/Generics-task/Generics-task" beforeDir="false" afterPath="$PROJECT_DIR$/../../DZ5/Generics-task/Generics-task" afterDir="false" />
     </list>
@@ -32,7 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -49,7 +46,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/develop/HIL/DZ12/Streams-task/src",
+    "last_opened_file_path": "D:/develop/HIL/DZ12/Streams-task",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
