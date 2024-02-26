@@ -1,7 +1,6 @@
 package app.controllers;
 
-import app.model.DataHendler;
-import app.model.DataProvider;
+import app.model.AppModel;
 import app.view.AppView;
 
 public class AppController {
@@ -11,13 +10,12 @@ public class AppController {
 
     private void run() {
         AppView view = new AppView();
-        DataProvider dataProvider = new DataProvider();
-        DataHendler dataHendler = new DataHendler();
+        AppModel appModel=new AppModel();
 
         switch (view.getMenu()) {
-            case "1" -> view.getAllItems(
-                    dataHendler.hendelData(dataProvider.getData(), "123"));
-            case "2" -> System.exit(0);
+            case "1" -> view.getAllItems(appModel.getData());
+            case "2" -> view.getAllItems(appModel.hendelData(appModel.getData(),"123"));
+            case "3" -> System.exit(0);
             default -> view.getOutput("Invalid comand");
         }
 

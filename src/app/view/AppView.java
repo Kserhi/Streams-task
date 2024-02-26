@@ -22,7 +22,8 @@ public class AppView {
                     """ 
                                 Menu:
                                 1-get All
-                                2-exit
+                                2-get filter data
+                                3-exit
                         """);
             return  new Scanner(System.in).next();
         };
